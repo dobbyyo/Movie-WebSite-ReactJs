@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/coinweb-reactjs/static/js/main.02e5b503.js",
+    "main.js": "/coinweb-reactjs/static/js/main.4457edff.js",
     "index.html": "/coinweb-reactjs/index.html",
-    "main.02e5b503.js.map": "/coinweb-reactjs/static/js/main.02e5b503.js.map"
+    "main.4457edff.js.map": "/coinweb-reactjs/static/js/main.4457edff.js.map"
   },
   "entrypoints": [
-    "static/js/main.02e5b503.js"
+    "static/js/main.4457edff.js"
   ]
 }
